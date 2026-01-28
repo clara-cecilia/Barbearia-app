@@ -5,7 +5,6 @@ import {
   Scissors, 
   CheckCircle, 
   LayoutDashboard, 
-  DollarSign, 
   Users, 
   Smartphone,
   ChevronRight,
@@ -17,7 +16,6 @@ import {
   Trash2,    // Ícone Lixeira
   Plus,      // Ícone Adicionar
   Save,      // Ícone Salvar
-  X          // Ícone Fechar/Cancelar
 } from 'lucide-react';
 
 // ==========================================
